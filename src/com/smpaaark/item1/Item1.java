@@ -1,4 +1,4 @@
-package com.smpaaark.item;
+package com.smpaaark.item1;
 
 import java.util.EnumSet;
 

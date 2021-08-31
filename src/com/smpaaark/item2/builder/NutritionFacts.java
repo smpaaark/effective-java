@@ -1,5 +1,9 @@
 package com.smpaaark.item2.builder;
 
+import com.smpaaark.item1.SampleEnum;
+
+import java.util.Collections;
+
 public class NutritionFacts {
 
     private final int servingSize;
